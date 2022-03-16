@@ -1,5 +1,4 @@
-<div style="padding-top:85%;position:relative; left:35px;"><iframe src="https://gifer.com/embed/4JDp" width="80%" height="80%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
-
+<p align="center"><img width="30%" height="auto" src="https://miro.medium.com/max/724/1*hc0S9DrsbOMWZjqHWSeAdg.gif" height="150px"/></p>
 <h1 align="center">Hi , I'm Reyhan</h1>
 
 I am Reyhan Andrea Firdaus,I'm currently learning about data science, I'm studying at [Senior High School 6 TASIKMALAYA](https://sman6tsm.sch.id/). I want to know more about data science and web programming.
