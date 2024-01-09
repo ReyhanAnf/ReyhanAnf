@@ -11,10 +11,6 @@ I am Reyhan Andrea Firdaus,I'm currently learning about data science, I'm studyi
     </a>
 </p>
 
-- I want to have a team so I can improve communication 
-- I want to collaborate on a Web Development Related Project 
-- 2022 goal: Improve my data science skills and get my first project 
-- Fun fact: I like taking photos, playing video games, etc
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ReyhanAnf&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReyhanAnf&show_icons=true&count_private=true&theme=great-gatsby) </br>
