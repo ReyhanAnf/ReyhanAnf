@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" height="auto" src="https://miro.medium.com/max/724/1*hc0S9DrsbOMWZjqHWSeAdg.gif" height="150px"/></p>
 <h1 align="center">Hi , I'm Reyhan</h1>
 
-I am Reyhan Andrea Firdaus,I'm currently learning about data science, I'm studying at [Senior High School 6 TASIKMALAYA](https://sman6tsm.sch.id/). I want to know more about data science and web programming.
+I am Reyhan Andrea Firdaus
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ReyhanAnf" alt="Reyhan" /> </p>
 
